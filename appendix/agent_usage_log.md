@@ -1,8 +1,27 @@
-# Agent Usage Log — MSIN0097 Coursework
+# Agent Usage Log + Decision Register
+# MSIN0097 Predictive Analytics
+# Agent tool: Google Antigravity
 
-Tool: Google Antigravity (Gemini 3 Pro / Claude Sonnet)
+---
 
-| # | Date | Stage | Prompt summary | Agent output | Decision | Verification performed | Rationale |
-|---|------|-------|----------------|--------------|----------|----------------------|-----------|
-| 1 | 02/03/2026 | Setup | Scaffold project structure and config | Folder structure + config.py | Accepted | Verified all paths correct, metric set to macro_f1 not accuracy | Matches agreed architecture |
+## Decision Register
 
+| # | Date | Stage | What I asked | Agent output | Decision | Verification | Rationale |
+|---|------|-------|--------------|--------------|----------|--------------|-----------|
+| 1 | | | | | | | |
+
+---
+
+## Agent Mistakes Caught
+
+| # | Date | Stage | What went wrong | How I caught it | How I corrected it |
+|---|------|-------|-----------------|-----------------|-------------------|
+| 1 | | | | | |
+
+---
+
+## Verification Standards Applied
+- Primary metric verified as macro-F1 on every model
+- Test set confirmed untouched during development
+- Random seeds checked in all stochastic operations
+- Scaler confirmed fitted on training data only

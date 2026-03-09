@@ -7,3 +7,10 @@ data/spotify_tracks.csv
 data/*.npy
 models/
 .DS_Store
+
+data/*.npy
+data/*.pkl
+data/dataset.csv
+notebooks/01_full_pipeline_ORIGINAL.ipynb
+notebooks/01_full_pipeline_REVISED.ipynb
+notebooks/01_full_pipeline_FINAL_v2.ipynb
